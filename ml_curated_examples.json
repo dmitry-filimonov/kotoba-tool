@@ -1,0 +1,37 @@
+{
+  "UrFU offers a new machine learning course for international students.": {
+    "text": "ウラル連邦大学は、留学生向けに新しい機械学習コースを提供しています。",
+    "style": "formal",
+    "targets": ["機械", "学習", "コース"],
+    "entities": ["ウラル連邦大学"],
+    "morphemes": ["ウラル", "連邦", "大学", "機械", "学習", "コース"]
+  },
+  "I applied deep learning techniques to Russian language datasets.": {
+    "text": "ロシア語のデータセットに深層学習の技術を使ってみたよ。",
+    "style": "casual",
+    "targets": ["深層", "学習", "データセット"],
+    "entities": ["ロシア語", "データセット"],
+    "morphemes": ["ロシア語", "データ", "セット", "深層", "学習", "技術"]
+  },
+  "The neural network achieved 98.5% accuracy in image classification.": {
+    "text": "ニューラルネットワークは、画像分類で98.5%の精度を達成した。",
+    "style": "neutral",
+    "targets": ["ニューラル", "ネットワーク", "画像", "分類"],
+    "entities": ["ニューラルネットワーク"],
+    "morphemes": ["ニューラルネットワーク", "画像", "分類", "精度"]
+  },
+  "During my studies at UrFU, I joined a lab researching NLP.": {
+    "text": "ウラル連邦大学で勉強しとる時に、NLP研究しとるラボに入ってん。",
+    "style": "kansai",
+    "targets": ["研究", "ラボ", "NLP"],
+    "entities": ["NLP", "ラボ"],
+    "morphemes": ["ウラル", "連邦", "大学", "勉強", "研究", "ラボ", "NLP"]
+  },
+  "Our professor explained the difference between supervised and unsupervised learning.": {
+    "text": "私たちの教授は、教師あり学習と教師なし学習の違いについて説明しました。",
+    "style": "formal",
+    "targets": ["教師", "あり", "学習", "教師", "なし"],
+    "entities": ["教師あり学習", "教師なし学習"],
+    "morphemes": ["私たち", "教授", "教師あり学習", "教師なし学習", "違い"]
+  }
+}

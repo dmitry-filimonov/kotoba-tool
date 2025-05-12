@@ -1,0 +1,8 @@
+streamlit
+transformers>=4.36
+sudachipy
+sudachidict_core
+janome
+deep-translator
+pykakasi
+unidic-lite
